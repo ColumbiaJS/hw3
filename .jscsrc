@@ -1,0 +1,49 @@
+{
+  "preset": "google",
+  "fileExtensions": [ ".js", "jscs" ],
+
+  "requireParenthesesAroundIIFE": true,
+  "maximumLineLength": 100,
+  "validateLineBreaks": null,
+  "validateIndentation": 2,
+
+  "disallowKeywords": ["with"],
+  "disallowSpacesInsideObjectBrackets": null,
+  "disallowImplicitTypeConversion": ["string"],
+
+  "disallowSpaceBeforeBinaryOperators": null,
+  "disallowSpaceBeforePostfixUnaryOperators": null,
+  "disallowSpaceAfterPrefixUnaryOperators": null,
+  "disallowSpacesInConditionalExpression": null,
+  "requireSpaceBeforeBinaryOperators": null,
+  "requireSpaceAfterBinaryOperators": null,
+  "requireSpaceBeforePostfixUnaryOperators": null,
+  "requireSpaceAfterPrefixUnaryOperators": null,
+  "requireSpacesInConditionalExpression": null,
+
+  "disallowSpacesInFunctionDeclaration": null,
+  "disallowMultipleLineBreaks": null,
+
+  "requireSpacesInFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  },
+  "requireSpacesInFunctionDeclaration": {
+    "beforeOpeningCurlyBrace": true
+  },
+  "requireSpacesInAnonymousFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  },
+
+  "disallowSpacesInFunctionExpression": null,
+  "disallowSpacesInFunction": null,
+  "disallowSpacesInFunctionDeclaration": null,
+  "disallowSpacesInAnonymousFunctionExpression": null,
+
+  "disallowMultipleVarDecl": null,
+
+  "safeContextKeyword": "self",
+
+  "excludeFiles": [
+      "test/data/**"
+  ]
+}
