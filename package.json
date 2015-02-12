@@ -1,13 +1,13 @@
 {
-  "name": "hw1",
+  "name": "hw3",
   "version": "0.1.0",
-  "description": "Homework 1 for W3101: JavaScript, Columbia University, Spring 2015",
+  "description": "Homework 3 for W3101: JavaScript, Columbia University, Spring 2015",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "gulp mocha"
   },
   "keywords": [
     "JavaScript",
