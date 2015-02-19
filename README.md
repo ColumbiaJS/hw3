@@ -2,7 +2,7 @@
 
 <!-- MarkdownTOC -->
 
-- [DUE DATE: Fri, Feb 20 at 11:59 PM](#due-date-fri-feb-20-at-1159-pm)
+- [DUE DATE: Sun, Feb 22 at 11:59 PM](#due-date-sun-feb-22-at-1159-pm)
 - [Key Features](#key-features)
   - [Overview](#overview)
   - [Registering modules](#registering-modules)
@@ -17,7 +17,7 @@
 <!-- /MarkdownTOC -->
 
 
-### DUE DATE: Fri, Feb 20 at 11:59 PM
+### DUE DATE: Sun, Feb 22 at 11:59 PM
 
 This time you have a single task - to create your own angular-style dependency-injection system.
 
